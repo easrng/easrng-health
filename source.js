@@ -45,7 +45,7 @@ function Rings({
             { day: "numeric", month: "short" }
           )}
         </text>
-        <text x="40" y="80">easrng health</text>
+        <text x="40" y="80">??? health</text>
       </g>
       <g
         fill="none"
